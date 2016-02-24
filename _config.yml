@@ -8,13 +8,13 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : "epiphyllum's blog"
+title : "yumige's blog"
 tagline: Site Tagline
 author :
-  name : epiphyllum
-  email : "94093146@qq.com"
-  github : epiphyllum 
-  twitter : haryzc
+  name : yumige
+  email : "457815238@qq.com"
+  github : yumige
+  twitter : yumige
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
