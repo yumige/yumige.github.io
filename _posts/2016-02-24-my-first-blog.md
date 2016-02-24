@@ -18,5 +18,5 @@ public class Blog {
 		return;
 	}
 }
-{% endhight %}
+{% endhighlight %}
 
