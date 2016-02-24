@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "dropwzard template skeleton tool"
-description: "dropwizard模板项目"
+title: "first blog"
+description: "first blog"
 category: "java"
 tags: [ "dropwizard" ]
 ---
