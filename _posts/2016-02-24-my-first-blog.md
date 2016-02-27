@@ -7,7 +7,7 @@ tags: [ "dropwizard" ]
 ---
 {% include JB/setup %}
 
-最近作了个dropwizard的模板项目[dropwizard-template](https://github.com/epiphyllum/dropwizard-template.git)，欢迎大家拍砖
+Spring的设计理念和设计模式分析
 
 
 {% highlight java %}
