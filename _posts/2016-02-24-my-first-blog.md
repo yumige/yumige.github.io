@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "first blog"
-description: "first blog"
+title: "my first blog"
+description: "my first blog"
 category: "java"
 tags: [ "dropwizard" ]
 ---
